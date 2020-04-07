@@ -13,7 +13,7 @@ local.properties
 .loadpath
 .recommenders
 .idea
-wechat-api.iml
+*.iml
 
 # External tool builders
 .externalToolBuilders/
